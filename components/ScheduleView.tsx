@@ -91,3 +91,4 @@ function getWeekStart(date: Date): Date {
   monday.setHours(0, 0, 0, 0);
   return monday;
 }
+export default ScheduleView;
